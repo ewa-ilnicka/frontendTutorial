@@ -1,14 +1,4 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/ewa-ilnicka/frontendTutorial">
@@ -23,7 +13,7 @@
 
 
 
-<!-- ## Table of Contents
+## Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -39,24 +29,28 @@
 
 
 
-
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="assets/about.png" alt="View">
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+This repo is still under construction. I'm planning to update it once a week with new chapters and new code.
+This isn't full tutorial. It contains only code and some comments (some of them are in polish). It also contains some exercises and solutions for them. 
 
+In this repo:
+* each chapter contains some basics od html and css
+* I try to use english but there are some polish comments
+* tools used: Visual Studio Code and Git.
+
+I am no frontend master or pro - I'm still learning and this repo helps me to organize my frontend knowledge
 
 ### Built With
 
-* []()
-* []()
-* []()
+To built this project I used:
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* (in the future) [Java Script](https://en.wikipedia.org/wiki/JavaScript)
 
-
-
+<!-- 
 
 ## Getting Started
 
