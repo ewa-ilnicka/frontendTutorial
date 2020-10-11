@@ -1,0 +1,78 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+div {
+    height: 50vh;
+}
+
+.one {
+    background-color: blue;
+}
+
+.two {
+    background-color: #6603fc;
+}
+
+.three {
+    background-image: linear-gradient(cadetblue, black);
+}
+
+.four {
+    background-image: radial-gradient(royalblue, rebeccapurple, black 70%);
+}
+
+.five {
+    height: 100vh;
+    background-image: url("https://eskipaper.com/images/sweet-kitty-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.six {
+    height: 100vh;
+    background-image: url("https://eskipaper.com/images/sweet-kitty-1.jpg");
+    background-color: darkblue;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.seven {
+    height: 100vh;
+    background-image: url("https://eskipaper.com/images/sweet-kitty-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(10px);
+}
+
+.eight {
+    height: 100vh;
+    background-image: url("https://eskipaper.com/images/sweet-kitty-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: sepia(0.7);
+}
+
+.nine {
+    height: 100vh;
+    background-image: url("https://eskipaper.com/images/sweet-kitty-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: invert(0.7);
+}
+
+.ten {
+    height: 100vh;
+    background-image: url("https://eskipaper.com/images/sweet-kitty-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: hue-rotate(120deg);
+}
